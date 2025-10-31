@@ -2,6 +2,12 @@
 
 ### Day 1 – Oct 28, 2025
 
-✅ Started DSA Practice
+Started DSA Practice
 
-### Day 1 – Oct 29, 2025
+### Day 2 – Oct 29, 2025
+
+Sorting algorithms
+
+Oct 30, 2025
+
+sorry didnt do anything!
