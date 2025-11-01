@@ -11,3 +11,7 @@ Sorting algorithms
 Oct 30, 2025
 
 sorry didnt do anything!
+
+Oct 31, 2025
+
+couldnt do anything today either!
