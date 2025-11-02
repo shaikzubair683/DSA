@@ -24,3 +24,9 @@ Hi
 2. Best case: O(n)
 3. Worst case: n²/2 - O(n²)
 4. Animation: [Watch here](https://www.youtube.com/shorts/cXmY0-nLGig)
+
+### Merge Sort
+
+1. Stands on the concept that merging two sorted arrays is O(n²) but O(n) because you only need to compare the first elements of two arrays.
+2. Argorithms = write recursion algorithm with base case, write the merge algorithm.
+3. Best, worstcase, efficent improved case = O(n log n). Requires extra O(n) memory; Can be parallelized with different threads.
