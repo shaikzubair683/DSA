@@ -30,3 +30,24 @@ Hi
 1. Stands on the concept that merging two sorted arrays is O(n²) but O(n) because you only need to compare the first elements of two arrays.
 2. Argorithms = write recursion algorithm with base case, write the merge algorithm.
 3. Best, worstcase, efficent improved case = O(n log n). Requires extra O(n) memory; Can be parallelized with different threads.
+
+### Arrays Named algorithms
+
+| #   | Algorithm Name                 | Key Idea                           |
+| --- | ------------------------------ | ---------------------------------- |
+| 1   | **Boyer–Moore Majority Vote**  | Majority element (> n/2).          |
+| 2   | **Dutch National Flag**        | Sort 0,1,2 (3-way partition).      |
+| 3   | **Kadane’s Algorithm**         | Maximum subarray sum.              |
+| 4   | **QuickSelect**                | kth smallest/largest.              |
+| 5   | **Merge Sort**                 | Divide and conquer sort.           |
+| 6   | **Quick Sort**                 | Partition-based sorting.           |
+| 7   | **Mo’s Algorithm**             | Offline range queries.             |
+| 8   | **Cycle Sort**                 | Minimal swap sorting.              |
+| 9   | **Two-Pointer Pattern**        | Pair sum, move zeros, etc.         |
+| 10  | **Sliding Window**             | Optimize subarray window problems. |
+| 11  | **Trapping Rainwater**         | Precompute left/right max.         |
+| 12  | **Prefix Sum Technique**       | Range sums efficiently.            |
+| 13  | **Binary Search on Answer**    | Minimize/maximize value problems.  |
+| 14  | **Next Permutation Algorithm** | Lexicographic ordering.            |
+| 15  | **Fisher–Yates Shuffle**       | Random shuffle uniformly.          |
+| 16  | **Difference Array Technique** | Range updates efficiently.         |
