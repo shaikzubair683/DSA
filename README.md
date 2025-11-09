@@ -31,6 +31,14 @@ Hi
 2. Argorithms = write recursion algorithm with base case, write the merge algorithm.
 3. Best, worstcase, efficent improved case = O(n log n). Requires extra O(n) memory; Can be parallelized with different threads.
 
+### Kadane's algorithm
+
+We only have two choices to make
+
+1. Do we extend the array to the right.(if current + nums[i] >= nums[i])
+2. Do we end the old array, create new subarray at i.
+   current + nums[i] >= nums[i]
+
 ### Arrays Named algorithms
 
 | #   | Algorithm Name                 | Key Idea                           |
