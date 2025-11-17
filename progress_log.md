@@ -8,14 +8,6 @@ Started DSA Practice
 
 Sorting algorithms
 
-Oct 30, 2025
+### Nov 16, 2025
 
-sorry didnt do anything!
-
-Oct 31, 2025
-
-couldnt do anything today either!
-
-Nov 1, 2025
-
-Worked on lot of algorithms, but forgot to push code to repo.
+Matrix problems

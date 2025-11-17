@@ -2,6 +2,8 @@
 
 Hi
 
+[Guide to Leetcoding:](https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/) https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/
+
 # Sorting
 
 ### Selection Sort
@@ -31,6 +33,8 @@ Hi
 2. Argorithms = write recursion algorithm with base case, write the merge algorithm.
 3. Best, worstcase, efficent improved case = O(n log n). Requires extra O(n) memory; Can be parallelized with different threads.
 
+### Arrays
+
 ### Kadane's algorithm
 
 We only have two choices to make
@@ -38,6 +42,24 @@ We only have two choices to make
 1. Do we extend the array to the right.(if current + nums[i] >= nums[i])
 2. Do we end the old array, create new subarray at i.
    current + nums[i] >= nums[i]
+
+### Rotate Matrix
+
+Rotating a matric 90 degreees is simple.
+
+1. create transpose of the matrix, upper half of the diagonal will be replaced with lower half.
+2. Now horizontally flip the matrix in the middle, create two pointers L and R which will merge in middle.
+
+### Boundary-Shrinking Algorithm
+
+To print the matrix in spiral, we can create four boundaries,
+
+1. rowStart, rowEnd, colStart, colEnd.
+2. inside one while statement, we implement four steps with checkers
+   Go right + colStart+1
+   go down + rowEnd-1
+   go left + colEnd-1
+   go up + rowStart+1
 
 ### Arrays Named algorithms
 
