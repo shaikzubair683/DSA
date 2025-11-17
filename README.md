@@ -3,9 +3,8 @@
 Hi
 
 Links
-[Guide on How to do Leetcoding](https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/)
 
-[IT Books PDF](https://github.com/joshuagato/IT-Books/tree/main)
+[Guide on How to do Leetcoding](https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/) | [IT Books PDF](https://github.com/joshuagato/IT-Books/tree/main)
 
 # Sorting
 
